@@ -24,7 +24,7 @@
 ### 📂 Projects
 
 #### ✅ Published Projects
-- 🚧 **[Proyecto-python-juego](#)**: My first game developed during my first year of programming studies.
+- 🚧 **[python-first-game](#)**: My first game developed during my first year of programming studies.
 
 #### 🧠 Projects in Mind
 - Develop a personal website to serve as both a portfolio and an interactive resume.
