@@ -1,1 +1,45 @@
-# Keruza3
+<h1 align="center">Hi, I'm Juani 👋</h1>
+<p align="center">🧑‍💻 Developer in training | 🎮 Game Enthusiast | 💡 Passionate about tech and learning</p>
+
+---
+
+### 📌 About Me
+- 👨‍🎓 I'm currently learning **programming and software development**
+- 🔍 Exploring **frontend** and **backend** technologies
+- 🎯 My goal: become primarily a **backend developer** and also explore **game development**, especially using **Blender**, which I'm currently learning.
+- 🎮 I'm a huge enthusiast of games — I enjoy modding them and exploring how they're built.
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender"/>
+
+</p>
+
+---
+
+### 📂 Projects
+
+#### ✅ Published Projects
+- 🚧 **[Proyecto-python-juego](#)**: My first game developed during my first year of programming studies.
+
+#### 🧠 Projects in Mind
+- 
+- 
+- 
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keruza3&show_icons=true&theme=github_dark&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keruza3&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- 💬 Reach me at: juanignacio2520@gmail.com
