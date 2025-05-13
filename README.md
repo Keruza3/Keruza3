@@ -11,11 +11,14 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,git,blender" />
+  
+  
+##
+Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • PHP (soon) • Blender (in progress)
 
 </p>
 
