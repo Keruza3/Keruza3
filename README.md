@@ -28,8 +28,6 @@
 
 #### 🧠 Projects in Mind
 - Develop a personal website to serve as both a portfolio and an interactive resume.
-- 
-- 
 
 ---
 
