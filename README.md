@@ -18,7 +18,7 @@
   
   
 ##
-Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • Blender (in progress)
+Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • Git • Blender (in progress)
 
 </p>
 
