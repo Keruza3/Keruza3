@@ -31,6 +31,7 @@ Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • Git �
 
 #### 🧠 Projects in Mind
 - Develop a personal website to serve as both a portfolio and an interactive resume.
+- Feelist – An emotional music app that transforms how users feel into personalized playlists, powered by GPT and irony. Built with Flask, React, and the OpenAI API.
 
 ---
 
