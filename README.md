@@ -14,11 +14,11 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,git,blender" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,git" />
   
   
 ##
-Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • Git • Blender (in progress)
+Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • Git
 
 </p>
 
