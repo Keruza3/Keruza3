@@ -1,26 +1,41 @@
 <h1 align="center">Hi, I'm Juani 👋</h1>
-<p align="center">🧑‍💻 Developer in training | 🎮 Game Enthusiast | 💡 Passionate about tech and learning</p>
+<p align="center">🧑‍💻 Developer in training | 🎮 Game Enthusiast | 🤖 Exploring AI</p>
 
 ---
 
 ### 📌 About Me
-- 👨‍🎓 I'm currently learning **programming and software development**
-- 🔍 Exploring **frontend** and **backend** technologies
-- 🎯 My goal: become primarily a **backend developer** and also explore **game development**, especially using **Blender**, which I'm currently learning.
-- 🎮 I'm a huge enthusiast of games — I enjoy modding them and exploring how they're built.
+- 👨‍🎓 I'm currently studying **programming and software development**
+- 🔍 Learning and experimenting with **frontend** and **backend** technologies
+- 🎯 My main goal: become primarily a **backend developer**
+- 🤖 Recently diving into **Artificial Intelligence**, exploring its applications in development and creative projects
+- 🎮 Enthusiast of games — I enjoy modding them and exploring how they're built
 
 ---
 
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,git" />
-  
-  
-##
-Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • Git
-
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,angular,ionic,nodejs,express,mysql,mongodb,git,docker" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
+
+##
+**Lenguajes & Bases de Datos**  
+Python • Java • JavaScript • TypeScript • SQL (MySQL) • MongoDB  
+
+**Frontend**  
+HTML • CSS • Angular • Ionic  
+
+**Backend**  
+Node.js • Express  
+
+**Data & AI**  
+Pandas • NumPy • OpenAI API  
+
+**Herramientas**  
+Git • GitHub • Supabase • Docker
+
 
 ---
 
@@ -31,7 +46,7 @@ Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • Git
 
 #### 🧠 Projects in Mind
 - Develop a personal website to serve as both a portfolio and an interactive resume.
-- Feelist – An emotional music app that transforms how users feel into personalized playlists, powered by GPT and irony. Built with Flask, React, and the OpenAI API.
+- **Feelist** – An emotional music app that transforms how users feel into personalized playlists, powered by GPT and irony. Built with Flask, React, and the OpenAI API.
 
 ---
 
@@ -44,4 +59,4 @@ Python • Java • JavaScript • HTML • CSS • MySQL • MongoDB • Git
 ---
 
 ### 📫 Let's Connect!
-- 💬 Reach me at: juanignacio2520@gmail.com
+- 💬 Reach me at: **juanignacio2520@gmail.com**
