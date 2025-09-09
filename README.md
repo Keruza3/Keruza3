@@ -15,9 +15,7 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,angular,ionic,nodejs,express,mysql,mongodb,git,docker" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,angular,nodejs,express,mysql,mongodb,git,docker,supabase" />
 </p>
 
 ##
@@ -43,10 +41,11 @@ Git • GitHub • Supabase • Docker
 
 #### ✅ Published Projects
 - 🚧 **[Logo_Land_Game](#)**: My first game developed during my first year of programming studies.
+- **Feelist** – An emotional music app that transforms how users feel into personalized playlists, powered by GPT and irony. Built with Flask, React, and the OpenAI API.
 
 #### 🧠 Projects in Mind
 - Develop a personal website to serve as both a portfolio and an interactive resume.
-- **Feelist** – An emotional music app that transforms how users feel into personalized playlists, powered by GPT and irony. Built with Flask, React, and the OpenAI API.
+
 
 ---
 
