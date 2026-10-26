@@ -1,41 +1,75 @@
-📌 About Me
+<h1 align="center">Hi, I'm Juani 👋</h1>
 
-🎓 Graduated Programmer (UTN FRA) & AI Specialist (UTN)
+<p align="center">
+  <b>Full Stack Developer | Backend & AI Integrations</b><br>
+  <span>Building scalable backends & integrating AI solutions</span>
+</p>
 
-⚙️ Focused on Backend Architecture, database optimization, and AI integrations
+<p align="center">
+  <a href="https://linkedin.com/in/juan-ignacio-ullua-38aa44340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:juanignacio2520@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-🛠️ Hands-on experience building fullstack web apps using Node.js, Express, Python, React, and Angular
+---
 
-🌐 Advanced English speaker (Cambridge First Certificate in English - FCE)
+## 📌 About Me
 
-🎮 Game enthusiast — interested in game logic, modding, and interactive systems
+- 🎓 **Graduated**: Technical Degree in Programming & Postgraduate Diploma in AI (UTN).
+- ⚙️ **Focus**: Backend architecture, SQL database optimization, and API development.
+- 🤖 **AI Driven**: Integrating LLMs, prompt engineering, and data tools into web applications.
+- 🌍 **Languages**: Native Spanish | Advanced English (C1 / Cambridge FCE).
+- 🎮 **Passions**: Modding, game architecture, and exploring system mechanics.
 
-🧰 Tech Stack
+---
 
-Languages & Databases: Python • Java • JavaScript • TypeScript • SQL (MySQL) • MongoDB
+## 🛠️ Languages & Tools
 
-Backend & Cloud: Node.js • Express • Flask • Supabase • Docker
+### 💻 **Languages & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,mysql,mongodb,supabase" />
+</p>
 
-Frontend & Mobile: React • Angular • Ionic • HTML5 • CSS3
+### ⚙️ **Backend & AI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,docker,git" />
+</p>
 
-Data & AI: Pandas • NumPy • OpenAI API • Prompt Engineering
+### 🎨 **Frontend & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,angular,react" />
+</p>
 
-Tools: Git • GitHub
+---
 
-📂 Featured Projects
+## 📂 Featured Projects
 
-Feelist: AI-powered web app that generates personalized playlists based on user input and sentiment analysis. Stack: Flask, React, OpenAI API.
+### 🤖 **[Feelist](#)**
+- **Tech Stack**: Flask • React • OpenAI API
+- An AI-powered music web app that analyzes user moods and generates personalized playlists with custom prompts.
 
-Social Network Web: Fullstack social media platform featuring user authentication, post creation, and database persistence. Stack: Node.js, Express, MongoDB.
+### 🌐 **[Social Network Web App](#)**
+- **Tech Stack**: Node.js • Express • MongoDB • HTML/CSS
+- Fullstack social platform featuring user authentication, post creation, feeds, and data persistence.
 
-Game Room Web (Sala de Juegos): Interactive multi-game web app with real-time features and game state management. Stack: Angular, Ionic, Firebase.
+### 🎮 **[Interactive Game Room](#)**
+- **Tech Stack**: Angular • Ionic • Firebase
+- Interactive web and mobile application with multiple interactive mini-games and real-time state management.
 
-Logo Land Game: Academic 2D logic game developed during my software engineering studies.
+### 🕹️ **[Logo Land Game](#)**
+- **Tech Stack**: Java
+- Academic game logic project exploring Object-Oriented Programming (OOP) principles.
 
-📈 GitHub Stats
+---
 
-📫 Let's Connect!
+## 📊 GitHub Stats
 
-💼 LinkedIn: linkedin.com/in/juan-ignacio-ullua-38aa44340
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keruza3&show_icons=true&theme=github_dark&hide=issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keruza3&layout=compact&theme=github_dark" height="150" />
+</p>
 
-✉️ Email: juanignacio2520@gmail.com
+---
+
+<p align="center">
+  <i>"Always building, learning, and optimizing."</i>
+</p>
