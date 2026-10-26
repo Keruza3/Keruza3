@@ -1,61 +1,41 @@
-<h1 align="center">Hi, I'm Juani 👋</h1>
-<p align="center">🧑‍💻 Developer in training | 🎮 Game Enthusiast | 🤖 Exploring AI</p>
+📌 About Me
 
----
+🎓 Graduated Programmer (UTN FRA) & AI Specialist (UTN)
 
-### 📌 About Me
-- 👨‍🎓 I'm currently studying **programming and software development**
-- 🔍 Learning and experimenting with **frontend** and **backend** technologies
-- 🎯 My main goal: become primarily a **backend developer**
-- 🤖 Recently diving into **Artificial Intelligence**, exploring its applications in development and creative projects
-- 🎮 Enthusiast of games — I enjoy modding them and exploring how they're built
+⚙️ Focused on Backend Architecture, database optimization, and AI integrations
 
----
+🛠️ Hands-on experience building fullstack web apps using Node.js, Express, Python, React, and Angular
 
-### 🧰 Languages and Tools
+🌐 Advanced English speaker (Cambridge First Certificate in English - FCE)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,angular,nodejs,express,mysql,mongodb,git,docker,supabase" />
-</p>
+🎮 Game enthusiast — interested in game logic, modding, and interactive systems
 
-##
-**Lenguajes & Bases de Datos**  
-Python • Java • JavaScript • TypeScript • SQL (MySQL) • MongoDB  
+🧰 Tech Stack
 
-**Frontend**  
-HTML • CSS • Angular • Ionic  
+Languages & Databases: Python • Java • JavaScript • TypeScript • SQL (MySQL) • MongoDB
 
-**Backend**  
-Node.js • Express  
+Backend & Cloud: Node.js • Express • Flask • Supabase • Docker
 
-**Data & AI**  
-Pandas • NumPy • OpenAI API  
+Frontend & Mobile: React • Angular • Ionic • HTML5 • CSS3
 
-**Herramientas**  
-Git • GitHub • Supabase • Docker
+Data & AI: Pandas • NumPy • OpenAI API • Prompt Engineering
 
+Tools: Git • GitHub
 
----
+📂 Featured Projects
 
-### 📂 Projects
+Feelist: AI-powered web app that generates personalized playlists based on user input and sentiment analysis. Stack: Flask, React, OpenAI API.
 
-#### ✅ Published Projects
-- 🚧 **[Logo_Land_Game](#)**: My first game developed during my first year of programming studies.
-- **Feelist** – An emotional music app that transforms how users feel into personalized playlists, powered by GPT and irony. Built with Flask, React, and the OpenAI API.
+Social Network Web: Fullstack social media platform featuring user authentication, post creation, and database persistence. Stack: Node.js, Express, MongoDB.
 
-#### 🧠 Projects in Mind
-- Develop a personal website to serve as both a portfolio and an interactive resume.
+Game Room Web (Sala de Juegos): Interactive multi-game web app with real-time features and game state management. Stack: Angular, Ionic, Firebase.
 
+Logo Land Game: Academic 2D logic game developed during my software engineering studies.
 
----
+📈 GitHub Stats
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keruza3&show_icons=true&theme=github_dark&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keruza3&layout=compact&theme=github_dark" />
-</p>
+📫 Let's Connect!
 
----
+💼 LinkedIn: linkedin.com/in/juan-ignacio-ullua-38aa44340
 
-### 📫 Let's Connect!
-- 💬 Reach me at: **juanignacio2520@gmail.com**
+✉️ Email: juanignacio2520@gmail.com
